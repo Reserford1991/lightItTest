@@ -1,0 +1,25 @@
+#textbox {
+    padding: 0px;
+    width: 600px;
+    height: 120px;
+    border: 3px solid #cccccc;
+    padding: 5px;
+    font-family: Tahoma, sans-serif;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+.center, .center-index {
+    width: 100% !important;
+    text-align: center !important;
+}
+
+.center-index {
+    padding-top: 15%;
+}
+
+.center-vertical {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
